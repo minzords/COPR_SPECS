@@ -15,6 +15,7 @@ BuildRequires:	openssl-devel
 BuildRequires:	libshumate-devel
 BuildRequires:	libadwaita-devel
 BuildRequires:  gstreamer1-devel
+BuildRequires:	git
 BuildRequires:	pkgconfig(gstreamer-audio-1.0)
 BuildRequires:	pkgconfig(gstreamer-plugins-bad-1.0)
 BuildRequires:	pkgconfig(dbus-1)
