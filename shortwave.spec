@@ -17,6 +17,7 @@ BuildRequires:	libadwaita-devel
 BuildRequires:  gstreamer1-devel
 BuildRequires:	pkgconfig(gstreamer-audio-1.0)
 BuildRequires:	pkgconfig(gstreamer-plugins-bad-1.0)
+BuildRequires:	pkgconfig(dbus-1)
 BuildRequires:  pkgconfig(gtk4)
 BuildRequires:  pkgconfig(glib-2.0)
 
