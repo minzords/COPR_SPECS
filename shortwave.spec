@@ -11,6 +11,7 @@ BuildRequires:  meson
 BuildRequires:  cmake
 BuildRequires:	rust
 BuildRequires:	cargo
+BuildRequires:	openssl-devel
 BuildRequires:	libshumate-devel
 BuildRequires:	libadwaita-devel
 BuildRequires:  gstreamer1-devel
