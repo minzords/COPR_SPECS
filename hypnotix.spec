@@ -1,6 +1,6 @@
 Summary:         An IPTV streaming application
 Name:            hypnotix
-Version:         2.9
+Version:         3.1
 Release:         1%{?dist}
 License:         GPL3
 URL:             https://github.com/linuxmint/hypnotix
